@@ -5,7 +5,7 @@ Cyber Security Specialist
 -------------------------
 
 * 🌍  I'm based in Izmir
-* ✉️  You can contact me at [berkay.ozbinar@hotmail.com](mailto:berkay.ozbinar@hotmail.com)
+* ✉️  You can contact me at [berkay.ozbinar@hotmail.com](mailto:berkayozbinar@gmail.com)
 * 🧠  I'm learning Pentest
 
 ### Skills
