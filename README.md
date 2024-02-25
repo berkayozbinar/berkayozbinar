@@ -22,5 +22,6 @@ Cyber Security Specialist
 
 ### Badges
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Covista.png" alt="TryHackMe">
 <a href="https://github.com/berkayozbinar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayozbinar&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </ul>
